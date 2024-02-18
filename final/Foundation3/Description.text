@@ -1,0 +1,13 @@
+Event Planning Program Description
+
+The "Inheritance with Event Planning" program is designed for an event planning company to efficiently 
+manage and market various types of events worldwide. Using object-oriented programming principles, 
+including inheritance and encapsulation, the program tracks lectures, receptions, and outdoor gatherings by 
+creating a base Event class and derived classes for each event type. With a focus on code reusability, 
+the program ensures shared attributes and methods are inherited, while encapsulation maintains data integrity.
+ The program allows for the creation of events with essential details such as title, description, date, time, 
+ and address, and provides functionality to generate three types of marketing messages: standard details, 
+ full details (including event-specific information like speaker name and capacity for lectures, RSVP email 
+ for receptions, and weather forecast for outdoor gatherings), and short descriptions. By adhering to the 
+ specified program requirements and utilizing an address class for addresses, the program efficiently 
+ produces marketing material for distribution on social media platforms.
